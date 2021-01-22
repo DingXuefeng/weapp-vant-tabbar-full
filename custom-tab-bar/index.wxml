@@ -1,0 +1,11 @@
+<!--custom-tab-bar/index.wxml-->
+<van-tabbar
+    active="{{ active }}"
+    data-key="active"
+    safe-area-inset-bottom="{{ true }}"
+    bind:change="onChange"
+  >
+    <van-tabbar-item icon="home-o">t1</van-tabbar-item>
+    <van-tabbar-item icon="search">t2</van-tabbar-item>
+    <van-tabbar-item icon="friends-o">t3</van-tabbar-item>
+  </van-tabbar>

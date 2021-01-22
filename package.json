@@ -1,0 +1,11 @@
+{
+  "name": "weapp-vant-tabbar-full",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DingXuefeng/weapp-vant-tabbar-full.git",
+  "author": "Xuefeng, Ding <xuefeng.ding.physics@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@vant/weapp": "^1.6.6"
+  }
+}
